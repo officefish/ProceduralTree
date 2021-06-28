@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\practice\\unreal\\Unreal\\ProceduralTree\\Source\\ProceduralTree\\ProceduralTree.Build.cs",
+		"D:\\practice\\unreal\\Unreal\\ProceduralTree\\Source\\ProceduralTree.Target.cs",
+		"D:\\practice\\unreal\\Unreal\\ProceduralTree\\Source\\ProceduralTreeEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}

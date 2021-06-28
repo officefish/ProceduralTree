@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ProceduralTree.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{3F0C6B2E-6A8C-4EA6-8521-CEF8761216D9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ProceduralTree.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ProceduralTreeEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{D101CEAB-42DC-4DD7-9803-CC6F72E438F8}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ProceduralTree">
+      <UniqueIdentifier>{593900DD-4875-45B2-BD4C-A05121BE7286}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ProceduralTree\FirTreeBranch.cpp">
+      <Filter>Source\ProceduralTree</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProceduralTree\FirTreeBranch.h">
+      <Filter>Source\ProceduralTree</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProceduralTree\FirTreeRoot.cpp">
+      <Filter>Source\ProceduralTree</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProceduralTree\FirTreeRoot.h">
+      <Filter>Source\ProceduralTree</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\ProceduralTree\ProceduralTree.Build.cs">
+      <Filter>Source\ProceduralTree</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ProceduralTree\ProceduralTree.cpp">
+      <Filter>Source\ProceduralTree</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProceduralTree\ProceduralTree.h">
+      <Filter>Source\ProceduralTree</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProceduralTree\ProceduralTreeGameModeBase.cpp">
+      <Filter>Source\ProceduralTree</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProceduralTree\ProceduralTreeGameModeBase.h">
+      <Filter>Source\ProceduralTree</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProceduralTree\ProcedurarTreeDataLibrary.cpp">
+      <Filter>Source\ProceduralTree</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProceduralTree\ProcedurarTreeDataLibrary.h">
+      <Filter>Source\ProceduralTree</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ProceduralTree\spline.h">
+      <Filter>Source\ProceduralTree</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProceduralTree\SplineInterpLibrary.cpp">
+      <Filter>Source\ProceduralTree</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProceduralTree\SplineInterpLibrary.h">
+      <Filter>Source\ProceduralTree</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProceduralTree\TreeBranch.cpp">
+      <Filter>Source\ProceduralTree</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProceduralTree\TreeBranch.h">
+      <Filter>Source\ProceduralTree</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProceduralTree\TreeBranchClaster.cpp">
+      <Filter>Source\ProceduralTree</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProceduralTree\TreeBranchClaster.h">
+      <Filter>Source\ProceduralTree</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProceduralTree\TreeElementFunctionLibrary.cpp">
+      <Filter>Source\ProceduralTree</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProceduralTree\TreeElementFunctionLibrary.h">
+      <Filter>Source\ProceduralTree</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProceduralTree\TreeGenesis.cpp">
+      <Filter>Source\ProceduralTree</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProceduralTree\TreeGenesis.h">
+      <Filter>Source\ProceduralTree</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProceduralTree\TreeRoot.cpp">
+      <Filter>Source\ProceduralTree</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProceduralTree\TreeRoot.h">
+      <Filter>Source\ProceduralTree</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProceduralTree\TreeRootModifier.cpp">
+      <Filter>Source\ProceduralTree</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProceduralTree\TreeRootModifier.h">
+      <Filter>Source\ProceduralTree</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

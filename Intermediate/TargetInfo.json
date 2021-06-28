@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ProceduralTree",
+			"Path": "D:\\practice\\unreal\\Unreal\\ProceduralTree\\Source\\ProceduralTree.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ProceduralTreeEditor",
+			"Path": "D:\\practice\\unreal\\Unreal\\ProceduralTree\\Source\\ProceduralTreeEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
